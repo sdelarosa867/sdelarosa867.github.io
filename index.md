@@ -4,9 +4,9 @@ random shit
 
 ## Favorite CPSC 120L-01 Labs
 
-radom 1
+* radom 1
 
-radom 2
+* radom 2
 
-ranfoom 3
+* ranfoom 3
 
